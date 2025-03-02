@@ -2,6 +2,6 @@
   id: McLiltens
   name: barsign-prototype-name-mcliltens
   icon:
-    sprite: Structures/Wallmounts/barsign.rsi
+    sprite: _Harmony/Structures/Wallmounts/barsign.rsi
     state: mcliltens
   description: barsign-prototype-description-mcliltens
